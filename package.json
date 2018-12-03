@@ -1,0 +1,20 @@
+{
+  "name": "ag-grid-vue-master-detail",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "ag-grid-community": "^19.1.4",
+    "ag-grid-enterprise": "^19.1.4",
+    "ag-grid-vue": "^19.1.2",
+    "vue": "^2.5.17"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.5",
+    "@vue/cli-service": "^3.0.5",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
